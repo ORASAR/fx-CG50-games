@@ -28,3 +28,5 @@ To play the following games you only need to copy the files on the device. File 
 
 ## Getting more games
 
+# Deleting games
+If you want to remove games (because you want to get more, or because you actually want to pass your IB) you need to delete them from the calculator AND clear the Bin. 
