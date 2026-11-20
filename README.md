@@ -14,12 +14,10 @@ To play the following games you only need to copy the files on the device. File 
 - Doom ([CGDoom.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/CGDoom.g3a) AND [doom.wad](https://github.com/msbrickle/fx-CG50-games/blob/main/doom.wad). Both files are required to load the game)
 - Minecraft ([minecraft-FX.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minecraft-FX.g3a) AND [fxcraft](https://github.com/msbrickle/fx-CG50-games/tree/main/fxcraft). Both files are required to play the game)
 - Minesweeper ([minesweeperprizm19.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minesweeperprizm19.g3a))
-- Snake (Snake.g3a)
-- A racing sim (
+- Snake ([Snake.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Snake.g3a))
+- A racing sim ([racing.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/racing.g3a))
 - Another racing sim with better graphics ([Swervle.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Swervle.g3a))
-- Tetris. No hard drop and Soft drop works weiredly (
-- Hoppy Road: amazing graphics, works smoothly (
-- Kirby: standard gameboy in colour (
+- Hoppy Road: amazing graphics, works smoothly ([HoppyRoad.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/HoppyRoad.g3a))
 
 # Games for GameBoy
 While there are a few games made for this calculator, there are not that many of them. 
@@ -31,13 +29,15 @@ Then just copy a GameBoy game you want to play (.gb extension) on the calculator
 To launch a GameBoy game on the calculator, open Prizoop app on the calculator and select the game. Press f6 and then shift. 
 ## Tested games
 The following games were tested:
-- GTA 2
-    - File: gta2.gbc
-    - Controls:
-- Geometry Dash
-- Mario
-- Tetris
-- Space Invaders
+- GTA 2 ([gta2.gbc](https://github.com/msbrickle/fx-CG50-games/blob/main/gta2.gbc))
+- Geometry Dash ([gb-dash_GB.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/gb-dash_GB.gb))
+- Mario ([Mario.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/Mario.gb))
+- Tetris ([tetris.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/tetris.gb))
+- Space Invaders ([spaceinvaders.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/spaceinvaders.gb))
+- Kirby: standard gameboy in colour ([kirby.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/Kirby.gb))
+ 
+## Controls
+
 
 # Getting more games
 You can find more games, both with native support and for GameBoy, online. They might, or might not work.
