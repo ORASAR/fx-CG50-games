@@ -15,7 +15,9 @@ To play the following games you only need to copy the files on the device. File 
 - Minecraft ([minecraft-FX.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minecraft-FX.g3a) AND [fxcraft](https://github.com/msbrickle/fx-CG50-games/tree/main/fxcraft). Both files are required to play the game)
 - Minesweeper ([minesweeperprizm19.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minesweeperprizm19.g3a))
 - Snake ([Snake.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Snake.g3a))
-- A racing sim ([racing.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/racing.g3a))
+- A multiplayer racing sim
+   - [racing.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/racing.g3a)
+   - If you connect two calculators with a cable you were given with the calculator, you can play it in multiplayer. 
 - Another racing sim with better graphics ([Swervle.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Swervle.g3a))
 - Hoppy Road: amazing graphics, works smoothly ([HoppyRoad.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/HoppyRoad.g3a))
 
