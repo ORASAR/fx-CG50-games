@@ -34,7 +34,7 @@ The following games were tested:
 - GTA 2 ([gta2.gbc](https://github.com/msbrickle/fx-CG50-games/blob/main/gta2.gbc))
 - Geometry Dash ([gb-dash_GB.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/gb-dash_GB.gb))
 - Mario ([Mario.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/Mario.gb))
-- Tetris ([tetris.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/tetris.gb))
+- Tetris. No hard drop or hold ([tetris.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/tetris.gb))
 - Space Invaders ([spaceinvaders.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/spaceinvaders.gb))
 - Kirby: standard gameboy in colour ([kirby.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/Kirby.gb))
  
