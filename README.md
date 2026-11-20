@@ -10,7 +10,7 @@ While these games were tested to have no negative impact on a calculator, it is 
 To get the files on the calculator you need to connect it with a mini-USB USB-A cable (that was given to you when you received the calculator) to your computer, and copy the files onto the device. It is very simple. 
 # Native support
 To play the following games you only need to copy the files on the device. File names are given in brackets:
-- Blackjack (Blackjack.g3a)
+- Blackjack ([Blackjack.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Blackjack.g3a))
 - Doom (CGDoom.g3a AND doom.wad. Both files are required to load the game)
 - Minecraft (minecraft-FX.g3a AND fxcraft folder. Both files are required to play the game)
 - Minesweeper (minesweeperprizm19.g3a)
