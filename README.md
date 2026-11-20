@@ -11,12 +11,12 @@ To get the files on the calculator you need to connect it with a mini-USB USB-A 
 # Native support
 To play the following games you only need to copy the files on the device. File names are given in brackets:
 - Blackjack ([Blackjack.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Blackjack.g3a))
-- Doom (CGDoom.g3a AND doom.wad. Both files are required to load the game)
-- Minecraft (minecraft-FX.g3a AND fxcraft folder. Both files are required to play the game)
-- Minesweeper (minesweeperprizm19.g3a)
+- Doom ([CGDoom.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/CGDoom.g3a) AND [doom.wad](https://github.com/msbrickle/fx-CG50-games/blob/main/doom.wad). Both files are required to load the game)
+- Minecraft ([minecraft-FX.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minecraft-FX.g3a) AND [fxcraft](https://github.com/msbrickle/fx-CG50-games/tree/main/fxcraft). Both files are required to play the game)
+- Minesweeper ([minesweeperprizm19.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minesweeperprizm19.g3a))
 - Snake (Snake.g3a)
 - A racing sim (
-- Another racing sim with better graphics (Swervle.g3a)
+- Another racing sim with better graphics ([Swervle.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Swervle.g3a))
 - Tetris. No hard drop and Soft drop works weiredly (
 
 # Games for GameBoy
@@ -24,7 +24,7 @@ While there are a few games made for this calculator, there are not that many of
 You can play most GameBoy games as well, but with a few extra steps.
 
 ## Emulator
-First you need to install GameBoy Emulator. Just copy prizoop.g3a on the calculator. 
+First you need to install GameBoy Emulator. Just copy [prizoop.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/prizoop.g3a) on the calculator. 
 Then just copy a GameBoy game you want to play (.gb extension) on the calculator. 
 To launch a GameBoy game on the calculator, open Prizoop app on the calculator and select the game. Press f6 and then shift. 
 ## Tested games
