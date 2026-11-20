@@ -39,7 +39,10 @@ The following games were tested:
 - Kirby: standard gameboy in colour ([kirby.gb](https://github.com/msbrickle/fx-CG50-games/blob/main/Kirby.gb))
  
 ## Controls
-
+- SHIFT: select
+- f6: enter
+- option, EXE and f5 do different things in different games
+- Menu: leave the game
 
 # Getting more games
 You can find more games, both with native support and for GameBoy, online. They might, or might not work.
@@ -50,4 +53,4 @@ If you want to remove games (because you want to get more, or because you actual
 
 # Contributing
 If you found errors, or you want to improve this project, you are welcome to do so.
-With any questions you can write me at lucanusae@gmail.com
+With any questions you can write me at lucanusae@gmail.com, or ask in person
