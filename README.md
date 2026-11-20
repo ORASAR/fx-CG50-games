@@ -45,3 +45,7 @@ You can try them, but be careful with downloading random files from internet. We
 
 # Deleting games
 If you want to remove games (because you want to get more, or because you actually want to pass your IB) you need to delete them from the calculator AND clear the Bin. 
+
+# Contributing
+If you found errors, or you want to improve this project, you are welcome to do so.
+With any questions you can write me at lucanusae@gmail.com
