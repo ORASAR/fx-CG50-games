@@ -17,16 +17,29 @@ To play the following games you only need to copy the files on the device. File 
 - Snake (Snake.g3a)
 - A racing sim (
 - Another racing sim with better graphics (Swervle.g3a)
-
-## Getting more games
+- Tetris. No hard drop and Soft drop works weiredly (
 
 # Games for GameBoy
+While there are a few games made for this calculator, there are not that many of them. 
+You can play most GameBoy games as well, but with a few extra steps.
 
 ## Emulator
-
+First you need to install GameBoy Emulator. Just copy prizoop.g3a on the calculator. 
+Then just copy a GameBoy game you want to play (.gb extension) on the calculator. 
+To launch a GameBoy game on the calculator, open Prizoop app on the calculator and select the game. Press f6 and then shift. 
 ## Tested games
+The following games were tested:
+- GTA 2
+    - File: gta2.gbc
+    - Controls:
+- Geometry Dash
+- Mario
+- Tetris
+- Space Invaders
 
-## Getting more games
+# Getting more games
+You can find more games, both with native support and for GameBoy, online. They might, or might not work.
+You can try them, but be careful with downloading random files from internet. We do not bear any responsibility for results of your actions. 
 
 # Deleting games
 If you want to remove games (because you want to get more, or because you actually want to pass your IB) you need to delete them from the calculator AND clear the Bin. 
