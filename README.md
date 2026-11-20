@@ -53,4 +53,4 @@ If you want to remove games (because you want to get more, or because you actual
 
 # Contributing
 If you found errors, or you want to improve this project, you are welcome to do so.
-With any questions you can write me at lucanusae@gmail.com, or ask in person
+With any questions you can write me at lucanusae@gmail.com.
