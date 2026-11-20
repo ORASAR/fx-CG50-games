@@ -21,4 +21,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# Blackjack
+# Snake
+You can find the sourcecode on my github (https://github.com/Jery-das-Kreuz/snakeFXCG50-Casio)
+
+If you want to get started creating your own game for the Casio FX-CG calculators you can get started with this github page (https://github.com/wjtje/PrizmSdkDocker).
+
+made by Jery#6841
+for questions ask me on discord.
+
+# Nintendo
+The games are pirated, no license, sorry.
