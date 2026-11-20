@@ -18,6 +18,8 @@ To play the following games you only need to copy the files on the device. File 
 - A racing sim (
 - Another racing sim with better graphics ([Swervle.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Swervle.g3a))
 - Tetris. No hard drop and Soft drop works weiredly (
+- Hoppy Road: amazing graphics, works smoothly (
+- Kirby: standard gameboy in colour (
 
 # Games for GameBoy
 While there are a few games made for this calculator, there are not that many of them. 
